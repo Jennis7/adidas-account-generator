@@ -1,8 +1,7 @@
 # Adidas Account Generator
 
 ##NOTE
-This is a adjusted version of ryan9918's Adidas Account Generator (https://github.com/ryan9918/adidas-account-gen).
-I made quite a few changes that are listed in the Changes.
+This is a adjusted version of ryan9918's Adidas Account Generator (https://github.com/ryan9918/adidas-account-gen). I made quite a few changes that are listed in the Changes.
 
 ## Description
 A tool coded in Python that allows the user to generate accounts for Adidas US, Adidas UK and Adidas DE using a catch-all domain.
