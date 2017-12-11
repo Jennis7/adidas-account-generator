@@ -1,6 +1,6 @@
 # Adidas Account Generator
 
-##NOTE
+## NOTE
 This is a adjusted version of ryan9918's Adidas Account Generator (https://github.com/ryan9918/adidas-account-gen). I made quite a few changes that are listed in the Changes.
 
 ## Description
@@ -8,7 +8,7 @@ A tool coded in Python that allows the user to generate accounts for Adidas US, 
 The tool supports the recent captcha requirement change by Adidas.  Accounts are created in the format `RANDOMLETTERRANDOMNUMBER@DOMAIN` with a random password.
 The password and the domain can be edited in `config.json`.
 
-##Changes
+## Changes
 - I added Adidas DE as region. But you can still use UK and US as region
 - The HTML was updated
 - The generator generates random letters instead of using a prefix for the first part of the email
