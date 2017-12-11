@@ -1,0 +1,17 @@
+{
+	"locale": "DE",
+
+	"domain": "your.domain",
+
+	"password": "YourPassword",
+
+	"firstName": "firstName",
+	
+	"lastName": "lastName",
+	
+	"day": "day",
+	
+	"month": "month",
+	
+	"year": "year"
+}
