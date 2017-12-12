@@ -9,12 +9,12 @@ The tool supports the recent captcha requirement change by Adidas.  Accounts are
 The password and the domain can be edited in `config.json`.
 
 ## Changes
-- I added Adidas DE as region. But you can still use UK and US as region
-- The HTML was updated
+- I added Adidas DE as region. But you can still use UK and US.
+- The HTML file was updated.
 - The generator generates random letters instead of using a prefix for the first part of the email
 - The E-Mail format was changed.
-- You can now set a unique password for all accounts instead of random passwords
-- You can now change all personal details in the ´config´
+- You can now set a unique password for all accounts instead of random passwords.
+- You can now change all personal details in the `config`.
 
 
 ## Requirements
